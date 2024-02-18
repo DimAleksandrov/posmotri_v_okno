@@ -164,7 +164,6 @@ button:focus-visible {
   font-family: inherit;
   font-size: inherit;
   color: inherit;
-  padding: 2.5px 0;
 }
 
 .search-form__textfield::placeholder {
